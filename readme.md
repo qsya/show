@@ -1,11 +1,34 @@
 
+![talk is cheap, show me the code.](./public/show.jpg)
 
-talk is cheap, show me the code.
+🚀记录一些花里胡哨的效果
 
+# Rsbuild Project
 
-记录一些花里胡哨的效果
+## Setup
 
+Install the dependencies:
 
----
+```bash
+pnpm install
+```
 
-项目采用[Rsbuild构建](https://rsbuild.dev/zh/)
+## Get Started
+
+Start the dev server:
+
+```bash
+pnpm dev
+```
+
+Build the app for production:
+
+```bash
+pnpm build
+```
+
+Preview the production build locally:
+
+```bash
+pnpm preview
+```
